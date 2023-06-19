@@ -1,2 +1,6 @@
 HOLA
+<<<<<<< HEAD
 JAJAJAJAJAJAJAJAJA
+=======
+BLABLABLA
+>>>>>>> actividad3
